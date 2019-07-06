@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-07-07 02:05:26, I have solved **1** / **1043** problems while **161** are still locked.
+Until 2019-07-07 02:42:49, I have solved **2** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
-1. Python: 1
+1. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -16,7 +16,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|---|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|---|
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|---|
-|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|---|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0007.%20Reverse%20Integer/reverse_integer.py)|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|---|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|---|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|---|
