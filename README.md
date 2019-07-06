@@ -1,5 +1,5 @@
-# Keep thinking, keep alive
-Until 2019-07-07 02:42:49, I have solved **2** / **1043** problems while **161** are still locked.
+# Leetcode Python Challenge
+Until 2019-07-07 02:45:42, I have solved **2** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
 1. Python: 2
