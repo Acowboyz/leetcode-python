@@ -187,7 +187,7 @@ class Readme(object):
         self.others = others
         self.locked = locked
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        self.msg = '# Keep thinking, keep alive\n' \
+        self.msg = '# Leetcode Python Challenge\n' \
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
