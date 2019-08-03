@@ -1,8 +1,8 @@
 # Leetcode Python Challenge
-Until 2019-07-07 02:45:42, I have solved **2** / **1043** problems while **161** are still locked.
+Until 2019-08-03 20:45:34, I have solved **4** / **1068** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 2
+1. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -11,7 +11,7 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | Python |
 |:---:|:---:|:---:|:---:|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0001.%20Two%20Sum/two_sum.py)|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|---|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0002.%20Add%20Two%20Numbers/add_two_numbers.py)|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|---|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|---|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|---|
@@ -23,7 +23,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|---|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|---|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|---|
-|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|---|
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0014.%20Longest%20Common%20Prefix/longest_common_prefix.py)|
 |0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|---|
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|---|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|---|
@@ -291,7 +291,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|---|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|---|
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|---|
-|0299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|---|
+|0299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Easy|---|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|---|
 |0301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|---|
 |0302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|---|
@@ -424,7 +424,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|---|
 |0436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|---|
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|---|
-|0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|---|
+|0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Medium|---|
 |0439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|---|
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|---|
 |0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|---|
@@ -1006,13 +1006,20 @@ Note: :lock: means you need to buy a book from LeetCode
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|---|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|---|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|---|
+|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) :lock:|Easy|---|
+|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) :lock:|Easy|---|
+|1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|---|
+|1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) :lock:|Medium|---|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|---|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|---|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|---|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|---|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|---|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|---|
+|1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|---|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/) :lock:|Medium|---|
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|---|
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|---|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|---|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|---|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|---|
@@ -1021,6 +1028,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|---|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|---|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|---|
+|1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) :lock:|Hard|---|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|---|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|---|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|---|
@@ -1043,7 +1051,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) |Medium|---|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|---|
 |1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) |Medium|---|
-|1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|---|
+|1092|[Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|---|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) |Medium|---|
 |1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/) |Medium|---|
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|---|
@@ -1053,3 +1061,20 @@ Note: :lock: means you need to buy a book from LeetCode
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) |Easy|---|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) |Medium|---|
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) |Hard|---|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) |Easy|---|
+|1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/) |Medium|---|
+|1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) |Medium|---|
+|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|---|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) |Easy|---|
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) |Medium|---|
+|1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) |Medium|---|
+|1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|---|
+|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|---|
+|1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|---|
+|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|---|
+|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|---|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|---|
+|1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|---|
+|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|---|
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|---|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|---|

@@ -201,7 +201,7 @@ class Readme(object):
         :return:
         """
         readme_path = Config.readme_path
-        # write some basic inform about leetcode
+        # write some basic information about leetcode
         with open(readme_path, 'w') as f:
             f.write(self.msg)
             f.write('\n----------------\n')
