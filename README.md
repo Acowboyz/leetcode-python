@@ -1,8 +1,8 @@
 # Leetcode Python Challenge
-Until 2019-08-03 20:45:34, I have solved **4** / **1068** problems while **169** are still locked.
+Until 2019-08-04 16:33:17, I have solved **5** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 4
+1. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -24,7 +24,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|---|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|---|
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0014.%20Longest%20Common%20Prefix/longest_common_prefix.py)|
-|0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|---|
+|0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0015.%203Sum/3sum.py)|
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|---|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|---|
 |0018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|---|
@@ -1029,7 +1029,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|---|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|---|
 |1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) :lock:|Hard|---|
-|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|---|
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Medium|---|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|---|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|---|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|---|
@@ -1077,4 +1077,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|---|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|---|
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|---|
+|1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/) |Medium|---|
+|1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) |Medium|---|
+|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|---|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|---|
+|1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|---|
