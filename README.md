@@ -1,8 +1,8 @@
 # Leetcode Python Challenge
-Until 2019-08-04 16:33:17, I have solved **5** / **1072** problems while **169** are still locked.
+Until 2019-08-05 22:50:03, I have solved **7** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 5
+1. Python: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -30,12 +30,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |0018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|---|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|---|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|---|
-|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|---|
+|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0021.%20Merge%20Two%20Sorted%20Lists/merge_two_sorted_lists.py)|
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|---|
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|---|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|---|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|---|
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|---|
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/Acowboyz/leetcode-python/blob/master/leetcode-algorithms/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates_from_sorted_array.py)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|---|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|---|
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|---|
@@ -574,7 +574,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |0629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|---|
 |0630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|---|
 |0631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|---|
-|0632|[Smallest Range](https://leetcode.com/problems/smallest-range/description/) |Hard|---|
+|0632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) |Hard|---|
 |0633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|---|
 |0634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|---|
 |0635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|---|
